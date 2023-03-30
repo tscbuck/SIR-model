@@ -3,6 +3,7 @@
 ### About This Project
 
 This is a test SIR modelt hat is based on Ottar's book code from chapter 2. It is a simple SIR model with births and deaths.
+It uses fractional populations.
 
 ```math
 \begin{align}
